@@ -1,6 +1,6 @@
 # Word Guessing Game
 
-Web-based Word Guessing Game allowing 5 letter Guesses per Word. The Words are fetched from ```data.xml```. To build ```data.xml``` run ```data.php``` in localhost which creates the .xml file using the word bank ```words.txt```
+Web-based Word Guessing Game allowing 5 letter Guesses per Word. The Words are fetched from ```data.xml```. To build ```data.xml``` run ```data.php``` in localhost which creates the .xml file using the word bank ```words.txt```.
 
 ## Installing
 
